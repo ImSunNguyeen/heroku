@@ -1,0 +1,9 @@
+{
+	"ip":"SurvivalWithDudessss.aternos.me",
+	"port": 58002,
+	"name": "cc",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345"
+}
